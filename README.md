@@ -23,6 +23,13 @@ Semester
 This information can be accessed without authentication, violating data privacy regulations.
 ```
 
+# 📂 Registered Students Information
+
+The extracted **registered students' data** can be found in the CSV file below:
+
+📄 [Download students_info.csv](https://github.com/appuachu/Nakshatra25-saintgits-college-of-engineering-Bug-report/blob/main/masked_nakshathra_registration.csv)
+
+
 # 2️⃣ Payment Manipulation
 ```bash
 The payment gateway (Razorpay) allows manual modification of the transaction request.
@@ -68,11 +75,6 @@ Secure API Endpoints: Restrict access to student information and enforce authent
 
 Enable Web Application Firewall (WAF): Detect and prevent data manipulation attacks.
 ```
-## 📂 Registered Students Information
-
-The extracted **registered students' data** can be found in the CSV file below:
-
-📄 [Download students_info.csv](https://github.com/appuachu/Nakshatra25-saintgits-college-of-engineering-Bug-report/blob/main/masked_nakshathra_registration.csv)
 
 
 ## 🖼️ Admin Page Screenshots
