@@ -2,7 +2,7 @@
 
 # 🚀 Overview
 
-## This repository documents a security vulnerability discovered in nakshatrasgce.in. The flaw allows unauthorized access to sensitive student information and manipulation of the registration fee, leading to potential financial loss and data breaches.
+## This repository documents a security vulnerability discovered in nakshatrasgce.in. The flaw allows unauthorized access to Admin Panel,sensitive student information and manipulation of the registration fee, leading to potential financial loss and data breaches.
 
 # 🛠️ Vulnerability Details
 
