@@ -68,3 +68,10 @@ Secure API Endpoints: Restrict access to student information and enforce authent
 
 Enable Web Application Firewall (WAF): Detect and prevent data manipulation attacks.
 ```
+## 🖼️ Admin Page Screenshots
+
+### 📌 Admin Dashboard 
+![Admin Page 1](https://raw.githubusercontent.com/your-username/your-repo/main/admin_page1.png)
+
+### 📌 College Registered List Page
+![Admin Page 2](https://raw.githubusercontent.com/your-username/your-repo/main/admin_page2.png)
