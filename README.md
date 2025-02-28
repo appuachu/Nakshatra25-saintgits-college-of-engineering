@@ -68,6 +68,13 @@ Secure API Endpoints: Restrict access to student information and enforce authent
 
 Enable Web Application Firewall (WAF): Detect and prevent data manipulation attacks.
 ```
+## 📂 Registered Students Information
+
+The extracted **registered students' data** can be found in the CSV file below:
+
+📄 [Download students_info.csv](https://github.com/appuachu/Nakshatra25-saintgits-college-of-engineering-Bug-report/blob/main/masked_nakshathra_registration.csv)
+
+
 ## 🖼️ Admin Page Screenshots
 
 ### 📌 Admin Dashboard 
