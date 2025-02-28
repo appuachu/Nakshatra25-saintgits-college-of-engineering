@@ -71,7 +71,7 @@ Enable Web Application Firewall (WAF): Detect and prevent data manipulation atta
 ## 🖼️ Admin Page Screenshots
 
 ### 📌 Admin Dashboard 
-![Admin Page 1](https://raw.githubusercontent.com/your-username/your-repo/main/admin_page1.png)
+![Admin Page 1](https://github.com/appuachu/Nakshatra25-saintgits-college-of-engineering-Bug-report/blob/main/admin1.jpg)
 
 ### 📌 College Registered List Page
-![Admin Page 2](https://raw.githubusercontent.com/your-username/your-repo/main/admin_page2.png)
+![Admin Page 2](https://github.com/appuachu/Nakshatra25-saintgits-college-of-engineering-Bug-report/blob/main/admin2.jpg)
